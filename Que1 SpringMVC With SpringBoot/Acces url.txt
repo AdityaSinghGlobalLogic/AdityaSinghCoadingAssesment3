@@ -1,7 +1,0 @@
-get http://localhost:8080/customers
-get http://localhost:8080/customer/customerId
-post http://localhost:8080/customer
-delete http://localhost:8080/customer/customerId
-put http://localhost:8080/customer
-
-spring.datasource.url=jdbc:h2:mem:aditya
